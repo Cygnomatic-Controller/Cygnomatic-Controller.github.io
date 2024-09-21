@@ -1,4 +1,4 @@
-import{_ as r}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as a,e as t,d as o,o as n,r as s}from"./app-C3sF_ks3.js";const h={};function p(m,i){const e=s("VPCard");return n(),a("div",null,[t(` 布局包括:
+import{_ as r}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as a,e as t,d as o,o as n,r as s}from"./app-C4fkszDF.js";const h={};function p(m,i){const e=s("VPCard");return n(),a("div",null,[t(` 布局包括:
 
 - [导航栏](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)
 - [侧边栏](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)
