@@ -24,7 +24,7 @@ comment: false
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question2"
-    background="rgba(30, 180, 255, 0.3)"
+    background="rgba(30, 170, 255, 0.3)"
     />
 
 <VPCard
@@ -32,5 +32,21 @@ comment: false
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question3"
-    background="rgba(30, 180, 255, 0.3)"
+    background="rgba(30, 160, 255, 0.3)"
+    />
+
+<VPCard
+    title="为什么#include<iostream>找不到"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question4"
+    background="rgba(30, 150, 255, 0.3)"
+    />
+
+<VPCard
+    title="程序正确，洛谷提交错误"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question5"
+    background="rgba(30, 140, 255, 0.3)"
     />
