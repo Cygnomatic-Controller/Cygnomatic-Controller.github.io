@@ -90,3 +90,11 @@ comment: false
     link="/zh/Q-and-A/answer/question10"
     background="rgba(30, 90, 255, 0.3)"
     />
+
+<VPCard
+    title="为什么我输入正确的密码也显示密码错误？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question11"
+    background="rgba(30, 80, 255, 0.3)"
+    />
