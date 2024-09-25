@@ -70,10 +70,10 @@ export default hopeTheme({
     // You MUST generate and use your own comment service in production.
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      repo: "Cygnomatic-Controller/Cygnomatic-Controller.github.io",
+      repoId: "R_kgDOM0-y3g",
+      category: "Q&A",
+      categoryId: "DIC_kwDOM0-y3s4CixKt",
     },
 
     components: {
