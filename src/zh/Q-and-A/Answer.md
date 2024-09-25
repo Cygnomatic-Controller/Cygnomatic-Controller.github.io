@@ -124,7 +124,7 @@ comment: false
     />
 
 <VPCard
-    title="不懂为什么y出现问题，还有这个题目也不太明白"
+    title="不懂为什么y出现问题"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question15"
