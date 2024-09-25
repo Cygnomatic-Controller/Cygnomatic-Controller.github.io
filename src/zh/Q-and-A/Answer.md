@@ -106,3 +106,11 @@ comment: false
     link="/zh/Q-and-A/answer/question12"
     background="rgba(30, 70, 255, 0.3)"
     />
+
+<VPCard
+    title="用dev可以运行但是洛谷上是错的"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question13"
+    background="rgba(30, 255, 180, 0.3)"
+    />
