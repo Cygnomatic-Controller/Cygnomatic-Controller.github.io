@@ -122,3 +122,19 @@ comment: false
     link="/zh/Q-and-A/answer/question14"
     background="rgba(30, 255, 170, 0.3)"
     />
+
+<VPCard
+    title="不懂为什么y出现问题，还有这个题目也不太明白"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question15"
+    background="rgba(30, 255, 160, 0.3)"
+    />
+
+<VPCard
+    title="程序满足题目条件，但洛谷上显示错误，这是为什么呢？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question16"
+    background="rgba(30, 255, 160, 0.3)"
+    />
