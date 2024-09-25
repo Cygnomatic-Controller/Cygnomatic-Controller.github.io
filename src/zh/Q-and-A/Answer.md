@@ -60,7 +60,7 @@ comment: false
     />
 
 <VPCard
-    title="我调试的时候发现一直卡在for循环里"
+    title="为什么代码超时？"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question7"
@@ -68,9 +68,25 @@ comment: false
     />
 
 <VPCard
-    title="我调试的时候发现一直卡在for循环里"
+    title="为什么洛谷打马里奥的printf中用\n\表示换行且继续运行函数不正确。"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question8"
     background="rgba(30, 110, 255, 0.3)"
+    />
+
+<VPCard
+    title="求助大家帮忙写一个效率更高的按位比较代码或者给一个新的解题思路"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question9"
+    background="rgba(30, 100, 255, 0.3)"
+    />
+
+<VPCard
+    title="怎么用C语言解决这个问题？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question10"
+    background="rgba(30, 90, 255, 0.3)"
     />
