@@ -66,3 +66,11 @@ comment: false
     link="/zh/Q-and-A/answer/question7"
     background="rgba(30, 120, 255, 0.3)"
     />
+
+<VPCard
+    title="我调试的时候发现一直卡在for循环里"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question8"
+    background="rgba(30, 110, 255, 0.3)"
+    />
