@@ -116,7 +116,7 @@ comment: false
     />
 
 <VPCard
-    title="用dev可以运行但是洛谷上是错的"
+    title="求多个数最小公倍数数据只能过一半"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question14"
