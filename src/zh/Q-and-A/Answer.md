@@ -98,3 +98,11 @@ comment: false
     link="/zh/Q-and-A/answer/question11"
     background="rgba(30, 80, 255, 0.3)"
     />
+
+<VPCard
+    title="while(1){if(1) break;}return 0;和while(1){if(1) return 0;}有什么区别"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question12"
+    background="rgba(30, 70, 255, 0.3)"
+    />
