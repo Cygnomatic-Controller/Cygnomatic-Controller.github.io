@@ -138,3 +138,11 @@ comment: false
     link="/zh/Q-and-A/answer/question16"
     background="rgba(30, 255, 160, 0.3)"
     />
+
+<VPCard
+    title="程序满足题目条件，但洛谷上显示错误，这是为什么呢？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question17"
+    background="rgba(30, 255, 150, 0.3)"
+    />
