@@ -146,3 +146,19 @@ comment: false
     link="/zh/Q-and-A/answer/question17"
     background="rgba(30, 255, 150, 0.3)"
     />
+
+<VPCard
+    title="为什么不判断呢"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question18"
+    background="rgba(30, 255, 140, 0.3)"
+    />
+
+<VPCard
+    title="为什么不判断呢"
+    desc="为什么使用 if 但没完成判断筛选"
+    logo=""
+    link="/zh/Q-and-A/answer/question18"
+    background="rgba(30, 255, 130, 0.3)"
+    />
