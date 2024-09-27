@@ -159,6 +159,6 @@ comment: false
     title="为什么使用 if 但没完成判断筛选"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
-    link="/zh/Q-and-A/answer/question18"
+    link="/zh/Q-and-A/answer/question19"
     background="rgba(30, 255, 130, 0.3)"
     />
