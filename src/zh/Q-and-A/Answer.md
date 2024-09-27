@@ -162,3 +162,19 @@ comment: false
     link="/zh/Q-and-A/answer/question19"
     background="rgba(30, 255, 130, 0.3)"
     />
+
+<VPCard
+    title="为什么在vscode上能正常运行上传提交的时候有一个错误？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question20"
+    background="rgba(30, 255, 120, 0.3)"
+    />
+
+<VPCard
+    title="为什么运行不了"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question21"
+    background="rgba(30, 255, 110, 0.3)"
+    />
