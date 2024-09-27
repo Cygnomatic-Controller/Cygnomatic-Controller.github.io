@@ -1,7 +1,7 @@
 ---
 title: 为什么不判断呢
 icon: object-group
-permalink: /zh/Q-and-A/answer/question17.html
+permalink: /zh/Q-and-A/answer/question18.html
 category:
   - 问答
 tag:
