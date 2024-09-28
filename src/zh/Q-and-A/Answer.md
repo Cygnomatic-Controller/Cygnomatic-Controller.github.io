@@ -178,3 +178,27 @@ comment: false
     link="/zh/Q-and-A/answer/question21"
     background="rgba(30, 255, 110, 0.3)"
     />
+
+<VPCard
+    title="为什么第二次培训的链表内容中函数的参数列表一定要先指针再整型"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question22"
+    background="rgba(30, 255, 100, 0.3)"
+    />
+
+<VPCard
+    title="搜索语法没有错误，调试的时候使用案例也没问题。"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question23"
+    background="rgba(30, 255, 90, 0.3)"
+    />
+
+<VPCard
+    title="提交答案后出现红色测试点是什么意思？能怎么改进？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question24"
+    background="rgba(30, 255, 80, 0.3)"
+    />
