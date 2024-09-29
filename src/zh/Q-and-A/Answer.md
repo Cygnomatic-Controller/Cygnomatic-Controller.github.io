@@ -216,5 +216,5 @@ comment: false
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question26"
-    background="rgba(180, 255, 30, 0.3)"
+    background="rgba(180, 30, 255, 0.3)"
     />
