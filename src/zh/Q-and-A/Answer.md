@@ -202,3 +202,19 @@ comment: false
     link="/zh/Q-and-A/answer/question24"
     background="rgba(30, 255, 80, 0.3)"
     />
+
+<VPCard
+    title="if连用和if else有什么区别"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question25"
+    background="rgba(30, 255, 70, 0.3)"
+    />
+
+<VPCard
+    title="想问这个题的思路"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question26"
+    background="rgba(180, 255, 30, 0.3)"
+    />
