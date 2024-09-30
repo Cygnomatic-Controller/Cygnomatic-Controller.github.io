@@ -226,3 +226,19 @@ comment: false
     link="/zh/Q-and-A/answer/question27"
     background="rgba(255, 180, 203, 0.3)"
     />
+
+<VPCard
+    title="为什么无法进入内层循环"
+    desc="想问一下我对C语言中形参和实参的理解是否正确"
+    logo=""
+    link="/zh/Q-and-A/answer/question28"
+    background="rgba(255, 170, 203, 0.3)"
+    />
+
+<VPCard
+    title="为什么无法进入内层循环"
+    desc="为什么我测试的结果是对的结果在洛谷上不能通过"
+    logo=""
+    link="/zh/Q-and-A/answer/question28"
+    background="rgba(255, 160, 203, 0.3)"
+    />
