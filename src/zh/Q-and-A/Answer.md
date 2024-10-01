@@ -239,6 +239,6 @@ comment: false
     title="为什么我测试的结果是对的结果在洛谷上不能通过"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
-    link="/zh/Q-and-A/answer/question28"
+    link="/zh/Q-and-A/answer/question29"
     background="rgba(255, 160, 203, 0.3)"
     />
