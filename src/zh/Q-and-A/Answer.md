@@ -242,3 +242,11 @@ comment: false
     link="/zh/Q-and-A/answer/question29"
     background="rgba(255, 160, 203, 0.3)"
     />
+
+<VPCard
+    title="函数指针"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question30"
+    background="rgba(255, 150, 203, 0.3)"
+    />
