@@ -250,3 +250,19 @@ comment: false
     link="/zh/Q-and-A/answer/question30"
     background="rgba(255, 150, 203, 0.3)"
     />
+
+<VPCard
+    title="优化代码提高速度"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question31"
+    background="rgba(255, 140, 203, 0.3)"
+    />
+
+<VPCard
+    title="【帮助贴】关于Webots Guided Tour中内容下载缓慢问题的解决方法"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question32"
+    background="rgba(255, 130, 203, 0.3)"
+    />
