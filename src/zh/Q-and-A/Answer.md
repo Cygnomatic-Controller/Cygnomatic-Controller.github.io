@@ -274,3 +274,19 @@ comment: false
     link="/zh/Q-and-A/answer/question33"
     background="rgba(255, 120, 203, 0.3)"
     />
+
+<VPCard
+    title="怎么定义可变数组？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question34"
+    background="rgba(255, 110, 203, 0.3)"
+    />
+
+<VPCard
+    title="怎么减少运行时间？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question35"
+    background="rgba(255, 100, 203, 0.3)"
+    />
