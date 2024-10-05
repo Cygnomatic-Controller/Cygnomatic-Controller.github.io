@@ -266,3 +266,11 @@ comment: false
     link="/zh/Q-and-A/answer/question32"
     background="rgba(255, 130, 203, 0.3)"
     />
+
+<VPCard
+    title="vscode怎么一键运行代码"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question33"
+    background="rgba(255, 120, 203, 0.3)"
+    />
