@@ -290,3 +290,19 @@ comment: false
     link="/zh/Q-and-A/answer/question35"
     background="rgba(255, 100, 203, 0.3)"
     />
+
+<VPCard
+    title="为什么我的程序不能完全通过？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question36"
+    background="rgba(255, 90, 203, 0.3)"
+    />
+
+<VPCard
+    title="在代码测试通过后提交，测试点全WA"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question37"
+    background="rgba(255, 80, 203, 0.3)"
+    />
