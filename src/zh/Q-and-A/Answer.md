@@ -306,3 +306,11 @@ comment: false
     link="/zh/Q-and-A/answer/question37"
     background="rgba(255, 80, 203, 0.3)"
     />
+
+<VPCard
+    title="为什么第三个测试点始终通不过？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question38"
+    background="rgba(255, 70, 203, 0.3)"
+    />
