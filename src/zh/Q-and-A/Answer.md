@@ -314,3 +314,51 @@ comment: false
     link="/zh/Q-and-A/answer/question38"
     background="rgba(255, 70, 203, 0.3)"
     />
+
+<VPCard
+    title="为什么我的代码无法做到如题目实例输入时的换行效果？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question39"
+    background="rgba(255, 225, 190, 0.3)"
+    />
+
+<VPCard
+    title="为什么我用string和char都能在IDE运行，而在洛谷上string不行，char却可以？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question40"
+    background="rgba(255, 225, 180, 0.3)"
+    />
+
+<VPCard
+    title="如何让输入与输出在同一行"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question41"
+    background="rgba(255, 225, 170, 0.3)"
+    />
+
+<VPCard
+    title="没有输出"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question42"
+    background="rgba(255, 225, 160, 0.3)"
+    />
+
+<VPCard
+    title="webots安装后demo无法运行"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question43"
+    background="rgba(255, 225, 150, 0.3)"
+    />
+
+<VPCard
+    title="数据类型的选取除了要考虑自身存储，还要考虑别的什么吗"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question44"
+    background="rgba(255, 225, 140, 0.3)"
+    />
