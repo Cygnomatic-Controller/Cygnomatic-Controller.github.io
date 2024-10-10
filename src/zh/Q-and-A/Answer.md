@@ -362,3 +362,51 @@ comment: false
     link="/zh/Q-and-A/answer/question44"
     background="rgba(255, 225, 140, 0.3)"
     />
+
+<VPCard
+    title="有没有什么好方法初始化动态数组，让他全部为0"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question45"
+    background="rgba(255, 225, 130, 0.3)"
+    />
+
+<VPCard
+    title="为什么这段编码运行得不到结果？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question46"
+    background="rgba(255, 225, 120, 0.3)"
+    />
+
+<VPCard
+    title="为什么这段编码运行得不到结果？"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question47"
+    background="rgba(255, 225, 110, 0.3)"
+    />
+
+<VPCard
+    title="可不可以帮我看一下我的代码哪里有问题"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question48"
+    background="rgba(255, 225, 100, 0.3)"
+    />
+
+<VPCard
+    title="无法从键盘输入数据"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question49"
+    background="rgba(255, 225, 90, 0.3)"
+    />
+
+<VPCard
+    title="为什么循环前声明的整数，且在循环中未用到，在循环之后使用为何需要重新声明"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question50"
+    background="rgba(255, 225, 80, 0.3)"
+    />
