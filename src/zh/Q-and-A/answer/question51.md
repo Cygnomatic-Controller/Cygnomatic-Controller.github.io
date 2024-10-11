@@ -1,5 +1,5 @@
 ---
-title:在扩散题目中，在编译器中运行正常，测试通过，在洛谷中测试显示编译错误
+title: 在扩散题目中，在编译器中运行正常，测试通过，在洛谷中测试显示编译错误
 icon: object-group
 permalink: /zh/Q-and-A/answer/question51.html
 category:
