@@ -1,7 +1,7 @@
 ---
 title: vscode怎么一键运行代码
 icon: object-group
-permalink: /zh/Q-and-A/answer/question25.html
+permalink: /zh/Q-and-A/answer/question33.html
 category:
   - 问答
 tag:

@@ -380,7 +380,7 @@ comment: false
     />
 
 <VPCard
-    title="为什么这段编码运行得不到结果？"
+    title="为什么在vsc上可以运行的代码洛谷上没有通过呢"
     desc="慷慨解囊为学识，胜过一切闭门造车"
     logo=""
     link="/zh/Q-and-A/answer/question47"
