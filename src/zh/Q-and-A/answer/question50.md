@@ -1,7 +1,7 @@
 ---
 title: 为什么循环前声明的整数，且在循环中未用到，在循环之后使用为何需要重新声明
 icon: object-group
-permalink: /zh/Q-and-A/answer/question49.html
+permalink: /zh/Q-and-A/answer/question50.html
 category:
   - 问答
 tag:

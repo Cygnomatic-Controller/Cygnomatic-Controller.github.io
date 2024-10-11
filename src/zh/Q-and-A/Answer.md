@@ -410,3 +410,11 @@ comment: false
     link="/zh/Q-and-A/answer/question50"
     background="rgba(255, 225, 80, 0.3)"
     />
+
+<VPCard
+    title="在扩散题目中，在编译器中运行正常，测试通过，在洛谷中测试显示编译错误"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question51"
+    background="rgba(255, 225, 70, 0.3)"
+    />
