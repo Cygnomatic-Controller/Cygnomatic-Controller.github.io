@@ -418,3 +418,11 @@ comment: false
     link="/zh/Q-and-A/answer/question51"
     background="rgba(255, 225, 70, 0.3)"
     />
+
+<VPCard
+    title="while 循环提前跳出"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question52"
+    background="rgba(181, 126, 220, 0.3)"
+    />
