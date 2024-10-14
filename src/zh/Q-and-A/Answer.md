@@ -426,3 +426,11 @@ comment: false
     link="/zh/Q-and-A/answer/question52"
     background="rgba(181, 126, 220, 0.3)"
     />
+
+<VPCard
+    title="使用归并排序统计分数，但超时了，还能怎样优化吗"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question53"
+    background="rgba(170, 126, 220, 0.3)"
+    />
