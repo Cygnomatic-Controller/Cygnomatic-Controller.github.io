@@ -434,3 +434,11 @@ comment: false
     link="/zh/Q-and-A/answer/question53"
     background="rgba(170, 126, 220, 0.3)"
     />
+
+<VPCard
+    title="pid实战调参，编码器精确控制转速，但pid后和单p相比提升不大，问问这样是正常的吗（有波形图）"
+    desc="慷慨解囊为学识，胜过一切闭门造车"
+    logo=""
+    link="/zh/Q-and-A/answer/question54"
+    background="rgba(160, 126, 220, 0.3)"
+    />
